@@ -1,0 +1,22 @@
+﻿  playerData.cpp
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\playerdata.cpp(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\playerdata.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\playerdata.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\playerdata.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\playerdata.cpp(23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Server.cpp
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(116): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(402): warning C4018: '<': signed/unsigned mismatch
+c:\users\lindsey.lindseyuni\documents\uni year 3\networking\server\server\server.cpp(368): warning C4101: 'buffer': unreferenced local variable
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Connections.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Server.vcxproj -> C:\Users\Lindsey.LindseyUni\Documents\Uni Year 3\networking\Server\Debug\Server.exe
+  Server.vcxproj -> C:\Users\Lindsey.LindseyUni\Documents\Uni Year 3\networking\Server\Debug\Server.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  main.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  networking.vcxproj -> C:\Users\Lindsey.LindseyUni\Documents\Uni Year 3\networking - Copy\networkingClient\Debug\networking.exe
+  networking.vcxproj -> C:\Users\Lindsey.LindseyUni\Documents\Uni Year 3\networking - Copy\networkingClient\Debug\networking.pdb (Partial PDB)
